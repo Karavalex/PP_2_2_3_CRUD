@@ -27,11 +27,13 @@
       <version>1.0.2.Final</version>
     </dependency>
 
+    <!-- https://mvnrepository.com/artifact/org.springframework/spring-orm -->
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-orm</artifactId>
-      <version>5.3.10</version>
+      <version>6.0.4</version>
     </dependency>
+
 
     <dependency>
       <groupId>org.hibernate</groupId>
@@ -48,7 +50,7 @@
     <dependency>
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>
-      <version>8.0.28</version>
+      <version>8.0.31</version>
     </dependency>
 
     <dependency>
